@@ -24,6 +24,6 @@
 - **Tools & Frameworks:** JavaScript (D3.js, Plotly.js, TopoJSON), HTML/CSS
 
 ## [Github repo](https://github.com/phellich/apis-telegram.git) to get a Telegram Chatbot to improve your general culture
-![Bot demo](./Bot%20demo.png)
 - Topics: Chatbot Development
 - Tools & Frameworks: python-telegram-bot, OpenAI API
+![Bot demo](./Bot%20demo.png)
