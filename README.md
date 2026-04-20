@@ -9,7 +9,7 @@
 - **Topics:** Audio & Speech Recognition, LLMs, Robotics, Infrastructure & Deployment
 - **Tools & Frameworks:** Porcupine (Picovoice), Whisper, PyAudio, Llama, Pydantic, ROS, Docker, Nvidia Jetson
 
-## NLP: LLM fine-tuned to provide personnnalized guidance and answer EPFL course-related questions 
+## NLP: GPT2 fine-tuning to provide personnnalized guidance and answer EPFL course-related questions 
 [Read the Full Report](./NLP%20-%20Report.pdf)
 - **Topics:** AI in Education, Reinforcement Learning from Human Feedback (RLHF), Proximal Policy Optimization (PPO), Supervised Fine-Tuning, Knowledge Distillation, Model Alignment, Prompt Engineering (Zero-shot CoT)
 - **Tools & Frameworks:** GPT2-medium, DistilGPT2, ChatGPT, Hugging Face, Langdetect, ROUGE/BLEU/BERTScore
