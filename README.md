@@ -15,7 +15,7 @@
 - Tools & Frameworks: GPT2-medium, DistilGPT2, ChatGPT, Hugging Face, Langdetect, ROUGE/BLEU/BERTScore
 
 ## Reinforcment learning: Moutain Car project 
-[Read the Full Report](Reinforcement learning%-%Report.pdf)
+[Read the Full Report](Reinforcement%learning%-%Report.pdf)
 - Topics: State Space Discretization, Model-Based vs. Model-Free RL, Reward Shaping
 - Tools & Frameworks: Gymnasium (OpenAI), Deep Q-Network, Dyna
 
