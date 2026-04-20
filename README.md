@@ -1,7 +1,7 @@
 # flagship-projects
 
 ## Master's thesis: Shot and Technical Error Detection in Tennis using Graph Convolutional Networks 
-[Read the Full Report](GCNs%for%Tennis%-%Report.pdf)
+[Read the Full Report](./GCNs%20for%20Tennis%20-%20Report.pdf)
 - Topics: AI Coaching, Two-Stage Transfer Learning, Precise Event Spotting, Multi-Task Learning, Skeleton Normalization
 - Tools & Frameworks: Pytorch, Graph Convolutional Networks, HybrIK
 
