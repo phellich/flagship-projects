@@ -1,7 +1,7 @@
 # flagship-projects
 
 ## Master's thesis: Shot and Technical Error Detection in Tennis using Graph Convolutional Networks 
-[Read the Full Report](./GCNs for Tennis - Report.pdf)
+[Read the Full Report](./GCNs%for%Tennis%-%Report.pdf)
 - Topics: AI Coaching, Two-Stage Transfer Learning, Precise Event Spotting, Multi-Task Learning, Skeleton Normalization
 - Tools & Frameworks: Pytorch, Graph Convolutional Networks, HybrIK
 
@@ -24,6 +24,6 @@
 - Tools & Frameworks: JavaScript (D3.js, Plotly.js, TopoJSON), HTML/CSS
 
 ## [Github repo](https://github.com/phellich/apis-telegram.git) to get a Telegram Chatbot to improve your general culture
-![Bot demo](images/Bot%20demo.png)
+![Bot demo](./Bot%20demo.png)
 - Topics: Chatbot Development
 - Tools & Frameworks: python-telegram-bot, OpenAI API
